@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 84px;
+    padding-bottom: 0px;
+    padding-top: 60px;
+}
+.menu{
+    background-color: orangered;
+    padding: 100px 10px 100px 10px;
+    font-size: 35px;
+}
+.menu-item {
+    padding: 0px 23px 0px 23px;
+}
+.container{
+    background: orangered;
+    padding: 0px 118px 0px 118px;
+    margin: 65px;
+}
+
+
